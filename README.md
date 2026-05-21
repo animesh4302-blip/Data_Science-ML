@@ -73,12 +73,3 @@ More projects will be added covering:
 Generative AI
 
 Advanced Deep Learning
-
-MLOps
-
-Big Data Analytics
-
-👤 Author
-
-Muskan
-Data Science | Machine Learning | AI Enthusiast
